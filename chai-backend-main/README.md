@@ -1,12 +1,12 @@
-# 🎬 VideoTube - Complete Video Platform Backend
+# 🎬 FlickBeek - Enterprise Video Platform Backend
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/workflow/status/yourusername/videotube-backend/CI)](https://github.com/yourusername/videotube-backend/actions)
-[![Coverage Status](https://img.shields.io/codecov/c/github/yourusername/videotube-backend)](https://codecov.io/gh/yourusername/videotube-backend)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen)](https://nodejs.org)
-[![API Documentation](https://img.shields.io/badge/API-Documentation-blue)](https://documenter.getpostman.com/view/your-collection-id)
+[![Build Status](https://img.shields.io/github/workflow/status/yourusername/FlickBeek/CI?style=flat-square)](https://github.com/yourusername/FlickBeek/actions)
+[![Coverage Status](https://img.shields.io/codecov/c/github/yourusername/FlickBeek?style=flat-square)](https://codecov.io/gh/yourusername/FlickBeek)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Node.js Version](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen?style=flat-square)](https://nodejs.org)
+[![API Documentation](https://img.shields.io/badge/API-Documentation-blue?style=flat-square)](https://documenter.getpostman.com/view/your-collection-id)
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
