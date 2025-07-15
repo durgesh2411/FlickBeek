@@ -2,14 +2,16 @@
 
 ## Step-by-Step Instructions
 
-### 1️⃣ **Update Remote URL**
-Replace `YOUR_USERNAME` with your actual GitHub username:
+### 1️⃣ **✅ Remote URL Configured**
+Your GitHub remote is already set up correctly:
 ```bash
-git remote set-url origin https://github.com/YOUR_USERNAME/FlickBeek.git
+git remote -v
+# origin  https://github.com/durgesh2411/FlickBeek.git (fetch)
+# origin  https://github.com/durgesh2411/FlickBeek.git (push)
 ```
 
 ### 2️⃣ **Create GitHub Repository**
-1. Go to https://github.com
+1. Go to https://github.com/durgesh2411
 2. Click "+" → "New repository"
 3. Name: `FlickBeek`
 4. Description: `Enterprise-grade video streaming platform backend API`
