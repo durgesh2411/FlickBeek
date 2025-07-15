@@ -19,8 +19,6 @@
 
 **A production-ready, scalable backend for video streaming platforms built with modern JavaScript, featuring advanced authentication, media management, and social interactions.**
 
-*Part of the comprehensive "Chai aur Code" educational series by Hitesh Choudhary*
-
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/videotube-backend?style=social)](https://github.com/yourusername/videotube-backend/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/videotube-backend?style=social)](https://github.com/yourusername/videotube-backend/network)
 [![GitHub issues](https://img.shields.io/github/issues/yourusername/videotube-backend)](https://github.com/yourusername/videotube-backend/issues)
@@ -500,7 +498,7 @@ This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) 
 
 ### Share it with your friends who want to learn backend development!
 
-**Made with ❤️ and Durgesh**
+**Made with ❤️ by Durgesh**
 
 ---
 ## Inspiration:
