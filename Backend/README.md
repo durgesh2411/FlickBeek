@@ -323,7 +323,7 @@ curl -X POST http://localhost:9000/api/v1/users/register \
   -F "avatar=@profile.jpg"
 ```
 
-### 🔑 Login User  
+### 🔑 Login User
 ```bash
 curl -X POST http://localhost:9000/api/v1/users/login \
   -H "Content-Type: application/json" \
@@ -465,23 +465,6 @@ git push origin feature/AmazingFeature
 
 ---
 
-## 👨‍💻 Meet the Creator
-
-<div align="center">
-
-### **Hitesh Choudhary**
-*The legend behind "Chai aur Code"*
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HiteshChoudhary)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/HiteshChoudharydotcom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteshchoudhary/)
-
-*"Learning should be fun, practical, and accessible to everyone!"*
-
-</div>
-
----
-
 ## 🙏 Acknowledgments & Credits
 
 ### 💝 **Special Thanks To**
@@ -515,16 +498,12 @@ This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) 
 
 ## 🌟 Show Your Support
 
-### If this project helped you learn backend development, don't forget to give it a ⭐!
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/chai-backend?style=social)](https://github.com/yourusername/chai-backend/stargazers)
-
 ### Share it with your friends who want to learn backend development!
 
-**Made with ❤️ and ☕ by the Chai aur Code community**
+**Made with ❤️ and Durgesh**
 
 ---
-
+## Inspiration:
 *"Code karo, chai piyo, aur backend master bano!" - Hitesh Choudhary*
 
 </div>
